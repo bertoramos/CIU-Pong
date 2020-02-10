@@ -45,7 +45,7 @@ void setup() {
   
   gif = new GifMaker(this, "export2.gif");
   gif.setRepeat(0);        // make it an "endless" animation
-  gif.setTransparent(0,0,0);  // black is transparent
+  //gif.setTransparent(0,0,0);  // black is transparent
 }
 
 void keyPressed() {
