@@ -257,6 +257,7 @@ void keyPressed() {
 
 #### Referencias
 
+- Collision detection : <http://www.jeffreythompson.org/collision-detection/>
 - padCollision.wav : <https://downloads.khinsider.com/game-soundtracks/album/nintendo-switch-sound-effects/News.mp3>
 - gol.wav : <https://downloads.khinsider.com/game-soundtracks/album/nintendo-switch-sound-effects/Popup%2520%252B%2520Run%2520Title.mp3>
 - win.wav : <https://freesound.org/people/Wagna/sounds/325805/>
