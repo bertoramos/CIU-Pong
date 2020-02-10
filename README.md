@@ -257,7 +257,7 @@ void keyPressed() {
 
 #### Referencias
 
-padCollision = new SoundFile(this, "padCollision.wav"); // https://downloads.khinsider.com/game-soundtracks/album/nintendo-switch-sound-effects/News.mp3
-gol = new SoundFile(this, "gol.wav"); // https://downloads.khinsider.com/game-soundtracks/album/nintendo-switch-sound-effects/Popup%2520%252B%2520Run%2520Title.mp3
-win = new SoundFile(this, "win.wav"); // https://freesound.org/people/Wagna/sounds/325805/
-melody = new SoundFile(this, "melody.wav"); // https://freesound.org/people/DominikBraun/sounds/483502/
+- padCollision.wav : <https://downloads.khinsider.com/game-soundtracks/album/nintendo-switch-sound-effects/News.mp3>
+- gol.wav : <https://downloads.khinsider.com/game-soundtracks/album/nintendo-switch-sound-effects/Popup%2520%252B%2520Run%2520Title.mp3>
+- win.wav : <https://freesound.org/people/Wagna/sounds/325805/>
+- melody.wav : <https://freesound.org/people/DominikBraun/sounds/483502/>
