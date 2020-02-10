@@ -1,8 +1,3 @@
-
-import gifAnimation.*;
-
-GifMaker gif;
-
 // ball
 float ball_x, ball_y, ball_diam;
 float speed;
@@ -42,10 +37,6 @@ void setup() {
   font = createFont("pixelart.ttf", 32);
   
   netWidth = height/100;
-  
-  gif = new GifMaker(this, "export2.gif");
-  gif.setRepeat(0);        // make it an "endless" animation
-  //gif.setTransparent(0,0,0);  // black is transparent
 }
 
 void keyPressed() {
@@ -59,10 +50,6 @@ void keyPressed() {
     isGameRunning = true;
     stopMelody();
   }
-}
-
-void mousePressed() {
-  gif.finish(); 
 }
 
 void displayCommands() {
@@ -126,6 +113,4 @@ void draw() {
   }
   displayScore();
   displayCommands();
-  
-  gif.addFrame();
 }

@@ -6,7 +6,7 @@
 
 En esta práctica hemos desarrollado una versión del clásico juego [Pong de Atari](https://es.wikipedia.org/wiki/Pong). Está basado en el juego del ping-pong, y su objetivo es —controlando una raqueta— hacer rebotar una pelota intentando no dejarla pasar. Cada vez que uno de los participantes deja pasar la bola, el adversario gana un punto.
 
-Para controlar las raquetas, el jugador de la izquierda usa las teclas *'W'* y *'S'* para hacer subir y bajar la raqueta, respectivamente. El jugador derecho, utiliza las flechas superior e inferior.
+__Para controlar las raquetas__, el jugador de la izquierda usa las teclas *'W'* y *'S'* para hacer subir y bajar la raqueta, respectivamente. El jugador derecho, utiliza las flechas superior e inferior.
 
 En esta versión del juego, si uno de los dos jugadores llega a 10 puntos, gana el juego. Para volver a comenzar el juego, debe pulsarse la barra espaciadora.
 
