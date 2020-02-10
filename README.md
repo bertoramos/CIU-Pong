@@ -2,9 +2,7 @@
 ## Práctica 1: Pong
 ###### Alberto Ramos Sánchez
 
-![ventana](export.gif)
-
-#### Juego
+<center><img src="export.gif" width="400" height="300"/></center>
 
 En esta práctica hemos desarrollado una versión del clásico juego [Pong de Atari](https://es.wikipedia.org/wiki/Pong). Está basado en el juego del ping-pong, y su objetivo es —controlando una raqueta— hacer rebotar una pelota intentando no dejarla pasar. Cada vez que uno de los participantes deja pasar la bola, el adversario gana un punto.
 
